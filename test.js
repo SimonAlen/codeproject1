@@ -1,2 +1,2 @@
-console.log("hejsan");
+console.log("hejsan från dev");
 
